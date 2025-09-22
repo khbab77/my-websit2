@@ -1,0 +1,6 @@
+# السماح لكل محركات البحث بالزحف
+User-agent: *
+Disallow:
+
+# رابط ملف sitemap لتسريع الفهرسة
+Sitemap: https://khbab77.github.io/my-websit2/sitemap.xml
